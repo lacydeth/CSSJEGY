@@ -6,8 +6,21 @@ a {
     color: #666584;
 }
 table {
-    width: 600px;
-    background-color: white;
+    width: 650px;
+    background-color: #5C6B7B;
     margin: auto;
-    border-spacing: ;
+}
+table table {
+    margin: auto;
+    background: white;
+}
+#masodik {
+    background: #CDDBEB;
+    height: 35px;
+    text-align: center;
+}
+span {
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
 }
