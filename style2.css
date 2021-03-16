@@ -5,3 +5,28 @@ body {
 a {
     color: #666584;
 }
+table {
+    width: 650px;
+    background-color: #5C6B7B;
+    margin: auto;
+}
+table table {
+    margin: auto;
+    background: white;
+}
+#masodik {
+    background: #CDDBEB;
+    height: 35px;
+    text-align: center;
+}
+h1 {
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+}
+#cucc {
+    text-align: justify;
+}
+.af {
+    font-size: 10px;
+}
